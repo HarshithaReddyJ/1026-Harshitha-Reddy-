@@ -1,4 +1,4 @@
-#program to calculate simple intrest 
+No#program to calculate simple intrest 
 P=1000
 R=1
 I=2
@@ -38,3 +38,12 @@ print("circumference of a circle is",c)
 celsius=37.5
 fahrenheit=(celsius*1.8)+32
 print('%0.if celsius is equal to %0.if degree fahrenheit '%(celsius,fahrenheit))
+
+SWAPPING OF TWO NUMBERS
+x=8
+y=2
+print("value of x and y before swpping",x,y)
+x=x+y
+y=x-y
+x=x-y
+print("after swapping of number x and y",x, y) 
